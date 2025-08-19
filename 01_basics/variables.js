@@ -1,6 +1,4 @@
 console.log('darshan');
-
-
 const accountId = 144553
 let accountEmail = 'darshan@hmail.com'
 var accountPass = "12345"
