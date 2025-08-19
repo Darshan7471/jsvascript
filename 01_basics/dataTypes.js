@@ -17,7 +17,12 @@ let isLoggedIn = false
 // undefined =>
 // symbol => unique
 
+// non premitive datatypes
 // Object
+// array
+// functions
+
+
 
 console.log(typeof "darshan")
 
