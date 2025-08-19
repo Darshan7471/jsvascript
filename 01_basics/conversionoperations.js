@@ -33,3 +33,49 @@ let Stringnumber = String(someNumber)
 console.log(Stringnumber);
 console.log(typeof (Stringnumber));
 
+
+// ***************operations******************
+
+let value = 3
+let negValue = -value
+//console.log(negValue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**2);
+// console.log(2/2);
+// console.log(2%3);
+
+let str1 = "hello"
+let str2 = " hitesh"
+
+let str3 = str1 + str2
+
+console.log(str3);
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + 2 + 2); // when string is first so all considered to string
+console.log(1 + 2 + "2"); // when number is first so all consodered to number
+
+console.log( (3 + 4) * 5 % 3); // VVimp reaserch
+console.log(+true) // 1
+console.log(+"") // 0
+
+let num1, num2, num3
+
+num1 = num2 = num3 = 2 + 2
+
+let gameCounter = 100
+
+++gameCounter // prefix
+gameCounter ++ // postfix
+
+console.log(gameCounter);
+
+// VVIMP study hard
+
+
+
+
