@@ -10,7 +10,6 @@ let valueInNumber = Number(score)
 
 console.log(valueInNumber); // it will print NaN (Not a number)
 
-
 // "33" => 33
 // "33abc" => NaN
 // true => 1; false => 0
@@ -53,13 +52,12 @@ let str2 = " hitesh"
 let str3 = str1 + str2
 
 console.log(str3);
-
 console.log("1" + 2);
 console.log(1 + "2");
 console.log("1" + 2 + 2); // when string is first so all considered to string
 console.log(1 + 2 + "2"); // when number is first so all consodered to number
-
 console.log( (3 + 4) * 5 % 3); // VVimp reaserch
+console.log( (12 + 4) * 8 % 2); // VVimp reaserch
 console.log(+true) // 1
 console.log(+"") // 0
 
@@ -75,6 +73,9 @@ gameCounter ++ // postfix
 console.log(gameCounter);
 
 // VVIMP study hard
+
+
+
 
 
 
