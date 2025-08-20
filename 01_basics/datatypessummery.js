@@ -36,3 +36,28 @@ const myFunction =  function(){
 }
 
 console.log( heros)
+
+// **************************** merories
+
+// stack (primitive) , Heap (Non-primitive)
+
+let myYoutubename = "darshannikam"
+
+let anotherName = myYoutubename
+
+anotherName = "chai"
+
+console.log(myYoutubename);
+console.log(anotherName);
+
+let user = {
+    email: "user@gmail.com",
+    upi: "yser@ybl"
+}
+
+let usertwo = user
+
+usertwo.email = "simple@co.co"
+
+console.log(user.email);
+console.log(usertwo.email);
