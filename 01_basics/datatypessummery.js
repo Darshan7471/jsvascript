@@ -35,4 +35,4 @@ const myFunction =  function(){
 
 }
 
-console.log(typeof scoreValue)
+console.log( heros)
