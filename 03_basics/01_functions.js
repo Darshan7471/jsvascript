@@ -61,4 +61,18 @@ function handleobject(anyobject) {
     
 }
 
-handleobject(user)
+// handleobject(user)
+
+handleobject({
+    username: "same",
+    price: 399
+})
+
+const mynewarr = [200,400,100,600]
+
+function retyurnsecvalue(getarr){
+  return getarr[1]
+}
+
+// console.log(retyurnsecvalue(mynewarr));
+console.log(retyurnsecvalue([400,500,600,700]));
